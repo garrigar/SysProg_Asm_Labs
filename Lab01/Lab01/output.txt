@@ -1,0 +1,2 @@
+asm: Denominator is 0
+c++: Denominator is 0
